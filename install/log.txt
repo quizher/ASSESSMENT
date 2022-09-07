@@ -1,0 +1,12 @@
+
+08/09/2022 00:24:47 Registros insertados 12
+08/09/2022 00:25:11 Registros insertados 12
+08/09/2022 00:26:36SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'modelo' cannot be null
+08/09/2022 00:27:42 Registros insertados 240
+08/09/2022 00:27:58 Registros insertados 240
+08/09/2022 00:28:03SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'modelo' cannot be null
+08/09/2022 00:28:08 Registros insertados 220
+08/09/2022 00:28:20 Registros insertados 220
+08/09/2022 00:28:21 Registros insertados 220
+08/09/2022 00:28:24 Registros insertados 208
+08/09/2022 00:28:33 Registros insertados 200
