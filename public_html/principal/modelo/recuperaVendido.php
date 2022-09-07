@@ -66,8 +66,7 @@ if ($statement->rowCount() > 0) {
 
     $consulta = " SELECT P.id_producto, P.modelo, P.especificaciones,P.imagen, CL.nombre
 FROM producto AS P
-LEFT JOIN clasificacion AS CL ON P.id_clasificacion = CL.id_clasificacion
- $limite";
+LEFT JOIN clasificacion AS CL ON P.id_clasificacion = CL.id_clasificacion $limite";
 
     $statement = $conexion->prepare($consulta);
     $statement->execute();
