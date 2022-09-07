@@ -12,8 +12,8 @@ ASSESSMENT INTERMEDIO
 
 Dentro de la carpeta install se encuentra:
 
-- El archivo crearBD.sql el cual contine la creción de la base de datos y sus tablas
-- El archivo registros.php para la generacion de los registros de los productos
+- El archivo crearBD.sql el cual contine la creción de la base de datos y sus tablas (ejecutar primero)
+- El archivo registros.php para la generacion de los registros de los productos (ejecutar después)
 
 
 *Actividades logradas*
