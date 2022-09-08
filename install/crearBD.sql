@@ -320,7 +320,7 @@ ADD
 
 ALTER TABLE comentarios
 ADD
-    CONSTRAINT producto_fk FOREIGN KEY (id_producto) REFERENCES producto (id_producto) ON DELETE RESTRICT ON UPDATE RESTRICT;
+    CONSTRAINT producto_fk FOREIGN KEY (id_producto) REFERENCES producto (id_producto) ON DELETE NO ACTION ON UPDATE NO ACTION;
 
 -- llave foranea clasificacion
 

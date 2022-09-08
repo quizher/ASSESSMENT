@@ -42,7 +42,7 @@ productoDetalle = () => {
 
                         let elementos = respuesta.producto;
                         let comentarios = respuesta.comentario;
-                        // console.log(elementos);
+                        console.log(comentarios);
 
                         vistaDetalle(elementos, comentarios);
                         // document.getElementById('pagina').value = pagina;
